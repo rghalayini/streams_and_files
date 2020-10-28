@@ -1,0 +1,13 @@
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Streams and files\Streams and files\bin\Debug\netcoreapp3.1\Streams and files.exe
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Streams and files\Streams and files\bin\Debug\netcoreapp3.1\Streams and files.deps.json
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Streams and files\Streams and files\bin\Debug\netcoreapp3.1\Streams and files.runtimeconfig.json
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Streams and files\Streams and files\bin\Debug\netcoreapp3.1\Streams and files.runtimeconfig.dev.json
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Streams and files\Streams and files\bin\Debug\netcoreapp3.1\Streams and files.dll
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Streams and files\Streams and files\bin\Debug\netcoreapp3.1\Streams and files.pdb
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Streams and files\Streams and files\obj\Debug\netcoreapp3.1\Streams and files.csprojAssemblyReference.cache
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Streams and files\Streams and files\obj\Debug\netcoreapp3.1\Streams and files.AssemblyInfoInputs.cache
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Streams and files\Streams and files\obj\Debug\netcoreapp3.1\Streams and files.AssemblyInfo.cs
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Streams and files\Streams and files\obj\Debug\netcoreapp3.1\Streams and files.csproj.CoreCompileInputs.cache
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Streams and files\Streams and files\obj\Debug\netcoreapp3.1\Streams and files.dll
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Streams and files\Streams and files\obj\Debug\netcoreapp3.1\Streams and files.pdb
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Streams and files\Streams and files\obj\Debug\netcoreapp3.1\Streams and files.genruntimeconfig.cache
